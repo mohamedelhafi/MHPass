@@ -52,5 +52,8 @@ grails.project.dependency.resolution = {
         runtime ":database-migration:1.1"
 
         compile ':cache:1.0.0'
+		compile ":kickstart-with-bootstrap:0.9.9"
+		runtime ':jquery:1.8.3'
+		compile ':lesscss-resources:1.3.0.3'
     }
 }
