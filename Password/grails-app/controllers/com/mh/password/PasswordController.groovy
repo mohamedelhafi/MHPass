@@ -1,11 +1,16 @@
 package com.mh.password
 
-import org.springframework.dao.DataIntegrityViolationException
 import grails.plugins.springsecurity.Secured
+import org.springframework.dao.DataIntegrityViolationException
+
+
+
 
 /**
  * PasswordController
  * A controller class handles incoming web requests and performs actions such as redirects, rendering views and so on.
+ *  @author Mohamed El Hafi
+ *  @since  16-12-2013
  */
 
 @Secured(['ROLE_ADMIN' , 'ROLE_USER'])

@@ -2,6 +2,13 @@ package com.mh.password
 
 import org.apache.commons.lang.builder.HashCodeBuilder
 
+/**
+ *
+ * @author Mohamed El Hafi
+ * @since  16-12-2013
+ *
+ */
+
 class UserRole implements Serializable {
 
 	User user

@@ -1,5 +1,12 @@
 import org.codehaus.groovy.grails.plugins.springsecurity.SpringSecurityUtils
 
+
+/**
+ *
+ * @author Mohamed El Hafi
+ * @since  16-12-2013
+ *
+ */
 class LogoutController {
 
 	/**

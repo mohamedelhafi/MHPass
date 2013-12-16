@@ -1,3 +1,8 @@
+<%--
+
+  @author Mohamed El Hafi
+  @since 16-12-2013
+--%>
 <footer class="footer">
 	<div class="container">
 		<div class="row">

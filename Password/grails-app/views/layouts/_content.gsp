@@ -1,3 +1,8 @@
+<%--
+
+  @author Mohamed El Hafi
+  @since 16-12-2013
+--%>
 <div id="Content" class="container">
 	<!-- Main menu in one row (e.g., controller entry points -->
 	<g:if test="${!layout_nomainmenu}">

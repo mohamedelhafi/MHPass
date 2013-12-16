@@ -3,6 +3,9 @@ package com.mh.password
 /**
  * Password
  * A domain class describes the data object and it's mapping to the database
+ * * @author Mohamed El Hafi
+ * @since  16-12-2013
+ *
  */
 class Password {
 

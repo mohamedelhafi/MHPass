@@ -1,5 +1,12 @@
 package com.mh.password
 
+/**
+ *
+ * @author Mohamed El Hafi
+ * @since  16-12-2013
+ *
+ */
+
 class User {
 
 	transient springSecurityService

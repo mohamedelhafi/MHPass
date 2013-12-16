@@ -1,3 +1,8 @@
+<%--
+
+  @author Mohamed El Hafi
+  @since 16-12-2013
+--%>
 <nav id="Navbar" class="navbar navbar-fixed-top" role="navigation">
 	<div class="container">
 

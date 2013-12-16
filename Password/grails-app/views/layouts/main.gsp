@@ -1,3 +1,8 @@
+<%--
+
+  @author Mohamed El Hafi
+  @since 16-12-2013
+--%>
 <!DOCTYPE html>
 <!--[if lt IE 7 ]> <html lang="en" class="no-js ie6"> <![endif]-->
 <!--[if IE 7 ]>    <html lang="en" class="no-js ie7"> <![endif]-->

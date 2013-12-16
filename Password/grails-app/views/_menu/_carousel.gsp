@@ -1,4 +1,8 @@
+<%--
 
+  @author Mohamed El Hafi
+  @since 16-12-2013
+--%>
 <!-- Carousel
     ================================================== -->
 <div id="myCarousel" class="carousel slide" data-ride="carousel">

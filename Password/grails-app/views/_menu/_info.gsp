@@ -1,3 +1,8 @@
+<%--
+
+  @author Mohamed El Hafi
+  @since 16-12-2013
+--%>
 <%--<ul class="nav pull-right">--%>
 	<li class="dropdown dropdown-btn">
 		

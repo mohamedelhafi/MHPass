@@ -1,3 +1,8 @@
+<%--
+
+  @author Mohamed El Hafi
+  @since 16-12-2013
+--%>
 <!-- 
 This menu is used to show function that can be triggered on the content (an object or list of objects).
 -->
