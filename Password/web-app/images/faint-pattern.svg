@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generator: Adobe Illustrator 16.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="175px" height="303.101px" viewBox="0 0 175 303.101" enable-background="new 0 0 175 303.101" xml:space="preserve">
+<g opacity="0.05">
+	<polygon fill="#A7A9AC" points="174.998,252.587 87.499,202.067 174.998,151.548  "/>
+	<polygon fill="#D1D3D4" points="87.499,202.067 87.499,101.035 174.998,151.55  "/>
+	<polygon fill="#F1F2F2" points="174.998,151.55 174.998,151.55 87.499,101.031 174.998,50.518  "/>
+</g>
+<g opacity="0.05">
+	<polygon fill="#808285" points="-0.001,252.587 -0.001,151.548 87.5,202.067  "/>
+	<polygon fill="#58595B" points="87.498,202.067 87.498,202.067 -0.001,151.55 87.498,101.035  "/>
+	<polygon points="-0.001,151.55 -0.001,151.55 -0.001,50.518 87.5,101.031  "/>
+</g>
+<g opacity="0.05">
+	<polygon fill="#999999" points="87.497,0 0,50.516 87.499,101.035 87.499,0  "/>
+	<polygon fill="#666666" points="87.501,0 87.499,0 87.499,101.035 175,50.516 174.998,50.515 174.998,50.516  "/>
+	<polygon fill="#CCCCCC" points="0,0 0,50.516 87.493,0  "/>
+	<polygon fill="#CCCCCC" points="87.493,0 0,50.516 87.497,0  "/>
+	<polygon fill="#333333" points="87.505,0 174.998,50.515 174.998,0  "/>
+	
+		<rect x="80.734" y="25.257" transform="matrix(-0.866 -0.5 0.5 -0.866 232.2866 112.7561)" fill="#333333" width="101.032" height="0.001"/>
+	<polygon points="87.497,0 87.499,0 87.499,-0.001  "/>
+	<polygon points="87.499,-0.003 87.497,-0.002 87.499,-0.001  "/>
+	<polygon points="87.501,-0.002 87.499,-0.003 87.499,-0.001  "/>
+	<polygon points="87.499,0 87.501,0 87.499,-0.001  "/>
+	<rect x="87.495" y="-0.003" width="0.005" height="0.003"/>
+	<rect x="87.501" y="-0.002" width="0.003" height="0.003"/>
+</g>
+<g opacity="0.05">
+	<polygon fill="#CCCCCC" points="0,252.585 0,303.1 87.499,303.1  "/>
+	<polygon fill="#333333" points="174.998,252.585 87.499,303.1 174.998,303.1  "/>
+	<polygon fill="#F2F2F2" points="0,252.581 87.499,303.1 87.499,202.067  "/>
+	<polygon points="87.499,202.067 87.499,303.1 175,252.581  "/>
+</g>
+</svg>

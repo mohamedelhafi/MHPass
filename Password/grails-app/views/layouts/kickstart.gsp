@@ -30,10 +30,12 @@
 	<![endif]-->
 
 	<%-- For Javascript see end of body --%>
+		<link rel="stylesheet" href="${resource(dir: 'css', file: 'style.css')}" type="text/css">
 </head>
 
 <body>
-	<g:render template="/_menu/navbar"/>														
+	<g:render template="/_menu/navbar"/>	
+												
 
 	<!-- Enable to overwrite Header by individual page -->
 	<g:if test="${ pageProperty(name:'page.header') }">
